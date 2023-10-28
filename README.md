@@ -1,4 +1,4 @@
 # Akshay-
 my first repository
 <br>
-author - akshay kumar
+author - akshay kumar(apna)
